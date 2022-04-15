@@ -8,7 +8,7 @@ Bu bot sizlere web paneli tanıtmak için paylaşılmıştır. Çok bir özellik
 • Reklam engel.
 • Küfür engel.
 
-https://cdn.discordapp.com/attachments/961804124398190595/964539911619375144/1.jpg
+![image](https://cdn.discordapp.com/attachments/961804124398190595/964539911619375144/1.jpg)
 
 # Kurulumu nasıl yapılır?
 
