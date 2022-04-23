@@ -23,5 +23,6 @@ Bu bot sizlere web paneli tanıtmak için [thegears](https://github.com/thegears
 # İletişim
 
 Midwêst#0001 (737254285754236959)
+
 thegears#7001 (829632398341832704)
 
